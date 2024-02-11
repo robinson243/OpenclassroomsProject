@@ -1,0 +1,14 @@
+# Programmation Orintée Objet
+
+Classe    : plan de conception , genre (ex : Humain)
+Objet     : instance de classe (ex : Julien)
+
+Attribut    : variable de classe (ex : nom, age, sexe, taille...)
+Propriété   : manière de manipuler les attributs (lecture seule , accès non autorisé en dehors de la classe, etc)
+
+Méthode                 : fonction d' une classe (ex : manger, marcher, courrir)
+Méthode de classe       : fonction d'une classe 
+Méthode classique       : fonction d'une classe indépendante de celle-ci
+
+Héritage    : classe Fille qui hérite d'une classe Mère (Fille est une sorte de Mère) 
+            : classe Chat qui hérite d'une classe Animal (Chat est une sorte d'Animal)
